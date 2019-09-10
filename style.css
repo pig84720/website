@@ -27,6 +27,10 @@ header .row h1 {
   color: gray;
 }
 
+header .row h1 {
+  color: gray;
+}
+
 footer .row {
   display: flex;
   align-items: center;
