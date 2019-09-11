@@ -18,13 +18,10 @@ header .row a {
 
 header .row a:hover{
   background-color: peru;
+	border:2px rgba(0,0,0,0) solid;
   color: rgba(255,255,255,0.8);
   cursor: pointer;
   filter:brightness(1.1);
-}
-
-header .row h1 {
-  color: gray;
 }
 
 header .row h1 {
@@ -125,3 +122,25 @@ footer .col-sm-8 {
 }
 
 
+.empty {
+  padding-top: 40px;
+  width: 100%;
+}
+
+.area {
+  background-color: oldlace;
+}
+
+.col-sm-5 img{
+  padding : 40px;
+  border-radius: 500px;
+}
+
+.col-sm-7 {
+  padding-top: 40px;
+  padding-left: 100px;
+}
+
+.empty p h2 {
+  font-weight:bold;
+}
