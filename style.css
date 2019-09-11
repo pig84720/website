@@ -25,6 +25,7 @@ header .row a:hover{
   color: rgba(255,255,255,0.8);
   cursor: pointer;
   filter:brightness(1.1);
+  text-decoration:none;
 }
 
 header .row h1 {
