@@ -134,6 +134,8 @@ footer .col-sm-8 {
 .col-sm-5 img{
   padding : 40px;
   border-radius: 500px;
+  height: 150px;
+  width: 150px;
 }
 
 .col-sm-7 {
