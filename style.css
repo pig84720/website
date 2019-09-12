@@ -136,16 +136,19 @@ footer .col-sm-8 {
   padding-bottom: 60px;
 }
 
+.col-sm-3 {
+  margin-top: 100px;
+}
 
-.col-sm-5 img{
+.col-sm-3 img{
   padding : 40px;
   border-radius: 50%;
 
 }
 
-.col-sm-7 {
+.col-sm-8 {
   padding-top: 40px;
-  padding-left: 100px;
+  padding-left: 150px;
 }
 
 .empty p h2 {
