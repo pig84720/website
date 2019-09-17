@@ -6,6 +6,12 @@ body {
   background-attachment: fixed;
   background-position: center;
   height: 100%;
+  margin: 0 auto 0 auto;
+}
+
+.bigcontainer{
+  width: 1140px;
+  margin: 0 auto;
 }
 
 header {
@@ -137,18 +143,21 @@ footer .col-sm-8 {
 }
 
 .col-sm-3 {
-  margin-top: 100px;
+  margin-top: 60px;
 }
 
 .col-sm-3 img{
   padding : 40px;
   border-radius: 50%;
-
 }
 
 .col-sm-8 {
   padding-top: 40px;
   padding-left: 150px;
+}
+
+.col-sm-8 h4,h2{
+  letter-spacing: 3px;
 }
 
 .empty p h2 {
